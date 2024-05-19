@@ -137,74 +137,120 @@
 
 export const dataArr = [
     {
-        id: "group",
+        id: 1,
+        type: "group",
         img: 'https://www.facebook.com/photo/?fbid=884926963309037&set=a.104076944727380',
         name: "M Umar Hussain",
         text: "Kya haal ha brother"
     },
     {
-        id: "unread",
+        id: 2,
+        type: "unread",
         img: 'https://www.facebook.com/photo/?fbid=884926963309037&set=a.104076944727380',
         name: "M Umar Hussain",
         text: "Kya haal ha brother"
     }, {
-        id: "group",
+        id: 3,
+        type: "group",
         img: 'https://www.facebook.com/photo/?fbid=884926963309037&set=a.104076944727380',
         name: "M Umar Hussain",
         text: "Kya haal ha brother"
     }, {
-        id: "unread",
+        id: 4,
+        type: "unread",
         img: 'https://www.facebook.com/photo/?fbid=884926963309037&set=a.104076944727380',
         name: "M Umar Hussain",
         text: "Kya haal ha brother"
     }, {
-        id: "unread",
+        id: 5,
+        type: "unread",
         img: 'https://www.facebook.com/photo/?fbid=884926963309037&set=a.104076944727380',
         name: "M Umar Hussain",
         text: "Kya haal ha brother"
     }, {
-        id: "unread",
+        id: 6,
+        type: "unread",
         img: 'https://www.facebook.com/photo/?fbid=884926963309037&set=a.104076944727380',
         name: "M Umar Hussain",
         text: "Kya haal ha brother"
     }, {
-        id: "unread",
+        id: 7,
+        type: "unread",
         img: 'https://www.facebook.com/photo/?fbid=884926963309037&set=a.104076944727380',
         name: "M Umar Hussain",
         text: "Kya haal ha brother"
     }, {
-        id: "unread",
+        id: 8,
+        type: "unread",
         img: 'https://www.facebook.com/photo/?fbid=884926963309037&set=a.104076944727380',
         name: "M Umar Hussain",
         text: "Kya haal ha brother"
     }, {
-        id: "group",
+        id: 9,
+        type: "group",
         img: 'https://www.facebook.com/photo/?fbid=884926963309037&set=a.104076944727380',
         name: "M Umar Hussain",
         text: "Kya haal ha brother"
     },
     , {
-        id: "group",
+        id: 10,
+        type: "group",
         img: 'https://www.facebook.com/photo/?fbid=884926963309037&set=a.104076944727380',
         name: "M Umar Hussain",
         text: "Kya haal ha brother"
     }, , {
-        id: "group",
+        id: 11,
+        type: "group",
         img: 'https://www.facebook.com/photo/?fbid=884926963309037&set=a.104076944727380',
         name: "M Umar Hussain",
         text: "Kya haal ha brother"
     }, , {
-        id: "unread",
+        id: 12,
+        type: "unread",
         img: 'https://www.facebook.com/photo/?fbid=884926963309037&set=a.104076944727380',
         name: "M Umar Hussain",
         text: "Kya haal ha brother"
     }, {
-        id: "group",
+        id: 13,
+        type: "group",
         img: 'https://www.facebook.com/photo/?fbid=884926963309037&set=a.104076944727380',
         name: "M Umar Hussain",
         text: "Kya haal ha brother"
     }, , {
-        id: "group",
+        id: 14,
+        type: "group",
+        img: 'https://www.facebook.com/photo/?fbid=884926963309037&set=a.104076944727380',
+        name: "M Umar Hussain",
+        text: "Kya haal ha brother"
+
+    },
+    , {
+        id: 15,
+        type: "group",
+        img: 'https://www.facebook.com/photo/?fbid=884926963309037&set=a.104076944727380',
+        name: "M Umar Hussain",
+        text: "Kya haal ha brother"
+
+    },
+    , {
+        id: 16,
+        type: "group",
+        img: 'https://www.facebook.com/photo/?fbid=884926963309037&set=a.104076944727380',
+        name: "M Umar Hussain",
+        text: "Kya haal ha brother"
+
+    },
+    , {
+        id: 17,
+        type: "group",
+        img: 'https://www.facebook.com/photo/?fbid=884926963309037&set=a.104076944727380',
+        name: "M Umar Hussain",
+        text: "Kya haal ha brother"
+
+    },
+    , {
+        id: 18,
+        type: "group",
         img: 'https://www.facebook.com/photo/?fbid=884926963309037&set=a.104076944727380',
         name: "M Umar Hussain",
         text: "Kya haal ha brother"
